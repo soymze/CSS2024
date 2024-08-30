@@ -1,5 +1,5 @@
 # Morph Effect
-
+![morph-effect](https://github.com/soymze/Dynamic-designs-2024/blob/master/morph-effect.gif)
 ## Description
 The `morphEffect` project demonstrates a morphing animation effect using CSS and JavaScript. This project highlights how shapes can smoothly transition from one form to another, providing a dynamic visual experience.
 
