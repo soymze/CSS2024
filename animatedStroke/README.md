@@ -1,5 +1,5 @@
 # Animated Stroke
-
+![animated-stroke](https://github.com/soymze/Dynamic-designs-2024/blob/master/stroke.gif)
 ## Description
 The `animatedStroke` project demonstrates how to create animated stroke effects using CSS. This project features dynamic stroke animations that can be applied to various SVG elements for a modern and engaging look.
 
