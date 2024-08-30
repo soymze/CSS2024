@@ -1,5 +1,5 @@
 # Eyeballs
-
+![eyeball](https://github.com/soymze/Dynamic-designs-2024/blob/master/eyeball.gif)
 ## Description
 The `eyeballs` project features a dynamic and interactive CSS animation that simulates eyeballs following the mouse cursor. This effect creates an engaging and eye-catching visual for web pages.
 
