@@ -1,5 +1,5 @@
 # Social Media Buttons
-
+![social-buttons](https://github.com/soymze/Dynamic-designs-2024/blob/master/social-buttons.gif)
 ## Description
 The `socialMediaButtons` project showcases various social media button designs using HTML and CSS. These buttons can be used to link to social media profiles with stylish and interactive designs.
 
