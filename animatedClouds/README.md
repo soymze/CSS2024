@@ -1,5 +1,5 @@
 # Animated Clouds
-
+![animated-clouds](https://github.com/soymze/Dynamic-designs-2024/blob/master/clouds.gif)
 ## Description
 The `animatedClouds` project showcases how to create animated cloud effects using CSS. This project provides a visually appealing way to add dynamic cloud animations to your website's background.
 
