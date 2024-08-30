@@ -1,5 +1,5 @@
 # Login Form Animation
-
+![login-form-animation](https://github.com/soymze/Dynamic-designs-2024/blob/master/login-form.gif)
 ## Description
 The `loginFormAnimation` project showcases an animated login form with smooth transitions and interactive elements. It demonstrates how to use CSS animations to enhance the user experience of a login interface.
 
