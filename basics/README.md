@@ -1,5 +1,5 @@
 # Basics
-
+![basics](https://github.com/soymze/Dynamic-designs-2024/blob/master/basic.gif)
 ## Description
 The `basics` project is a collection of fundamental web design techniques and layouts. It covers essential aspects of web design such as basic HTML, CSS styling, and simple JavaScript functionalities. This project serves as a great starting point for beginners to learn and practice foundational web design skills.
 
