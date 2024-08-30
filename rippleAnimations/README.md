@@ -1,5 +1,5 @@
 # Ripple Animations
-
+![ripple-animations](https://github.com/soymze/Dynamic-designs-2024/blob/master/ripple-animation.gif)
 ## Description
 The `rippleAnimations` project demonstrates a series of ripple effects using CSS animations. This design creates visually appealing ripple effects that can be applied to various elements for enhanced user interaction.
 
