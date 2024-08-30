@@ -1,5 +1,5 @@
 # Star Wars Effect
-
+![starwars](https://github.com/soymze/Dynamic-designs-2024/blob/master/starwars.gif)
 ## Description
 The `starwars` project showcases a Star Wars-themed animation effect created using HTML, CSS, and JavaScript. It simulates the iconic Star Wars hyperspace effect and can be used to add a dynamic, space-themed visual to your web applications.
 
