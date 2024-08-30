@@ -1,5 +1,5 @@
 # Blur Textstroke
-
+![blur-text-stroke](https://github.com/soymze/Dynamic-designs-2024/blob/master/blur-text-stroke.gif)
 ## Description
 The `blurTextstroke` project demonstrates the application of CSS effects to create a text stroke with a blur effect. This project showcases how to use CSS properties to enhance the appearance of text, adding depth and visual interest to web designs.
 
