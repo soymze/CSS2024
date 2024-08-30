@@ -1,5 +1,5 @@
 # Pupping Bubbles
-
+![popping-bubbles](https://github.com/soymze/Dynamic-designs-2024/blob/master/pupping-bubbles.gif)
 ## Description
 The `puppingBubbles` project showcases a dynamic bubble animation effect created with CSS. This design simulates bubbles popping and floating, providing a playful and engaging visual experience.
 
