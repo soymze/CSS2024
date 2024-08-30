@@ -1,5 +1,5 @@
 # Animated Background
-![animated-background]/(https://github.com/soymze/Dynamic-designs-2024/blob/master/animated.gif)
+![animated-background](https://github.com/soymze/Dynamic-designs-2024/blob/master/animated.gif)
 ## Description
 The `animatedBackground` project demonstrates how to create dynamic and animated background effects using CSS. The project includes various examples of animated backgrounds that can be used to enhance the visual appeal of a website.
 
