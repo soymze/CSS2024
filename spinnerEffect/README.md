@@ -1,5 +1,5 @@
 # Spinner Effect
-[spinner-effect](https://github.com/soymze/Dynamic-designs-2024/blob/master/spinner.gif)
+![spinner-effect](https://github.com/soymze/Dynamic-designs-2024/blob/master/spinner.gif)
 ## Description
 The `spinnerEffect` project demonstrates various spinner animations using HTML and CSS. These spinners can be used to indicate loading states or add visual interest to web applications.
 
