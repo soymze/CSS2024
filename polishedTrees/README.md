@@ -1,5 +1,5 @@
 # Polished Trees
-
+![polished-trees](https://github.com/soymze/Dynamic-designs-2024/blob/master/polished-trees.gif)
 ## Description
 The `polishedTrees` project features a web design that creates visually appealing, stylized tree graphics using CSS. This project demonstrates how to use CSS to achieve smooth and polished tree-like shapes with a focus on aesthetics.
 
